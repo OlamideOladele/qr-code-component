@@ -1,0 +1,33 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", "sans-serif";
+  font-size: 15px;
+}
+/*image*/
+.barcode {
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  margin: 7rem 33rem 0;
+  border-radius: 8%;
+}
+.code {
+  padding: 30px 0 0 0;
+}
+
+/* text */
+span {
+  color: hsl(220, 15%, 55%);
+}
+.attributionText {
+  text-align: center;
+  padding: 0px 30px 20px;
+}
+/*footer*/
+.attribution {
+  margin-top: 200px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
